@@ -1,7 +1,6 @@
 G:\SberbankClientRepo\SberbankRestApiClient\RestClient\bin\Debug\netcoreapp2.2\RestClient.deps.json
 G:\SberbankClientRepo\SberbankRestApiClient\RestClient\bin\Debug\netcoreapp2.2\RestClient.dll
 G:\SberbankClientRepo\SberbankRestApiClient\RestClient\bin\Debug\netcoreapp2.2\RestClient.pdb
-G:\SberbankClientRepo\SberbankRestApiClient\RestClient\obj\Debug\netcoreapp2.2\RestClient.csprojAssemblyReference.cache
 G:\SberbankClientRepo\SberbankRestApiClient\RestClient\obj\Debug\netcoreapp2.2\RestClient.csproj.CoreCompileInputs.cache
 G:\SberbankClientRepo\SberbankRestApiClient\RestClient\obj\Debug\netcoreapp2.2\RestClient.AssemblyInfoInputs.cache
 G:\SberbankClientRepo\SberbankRestApiClient\RestClient\obj\Debug\netcoreapp2.2\RestClient.AssemblyInfo.cs

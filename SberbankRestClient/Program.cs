@@ -1,12 +1,15 @@
 ﻿using System;
 
+
 namespace SberbankRestClient
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Client client = new Client("service_user_name", "service_password");
+
+            Console.ReadLine();
         }
     }
 }
