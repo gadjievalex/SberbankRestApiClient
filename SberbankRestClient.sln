@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SberbankRestClient", "SberbankRestClient\SberbankRestClient.csproj", "{13DCA912-416E-4747-ABD6-D8E82852D749}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibSberbankRestClient", "..\LibSberbankRestClient\LibSberbankRestClient.csproj", "{83EEBBE4-0C48-4B04-8BA6-F1BACF6FD834}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClient", "RestClient\RestClient.csproj", "{813B6C12-E2E8-46B4-8FC1-B082C9F9C05B}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{13DCA912-416E-4747-ABD6-D8E82852D749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13DCA912-416E-4747-ABD6-D8E82852D749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13DCA912-416E-4747-ABD6-D8E82852D749}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83EEBBE4-0C48-4B04-8BA6-F1BACF6FD834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83EEBBE4-0C48-4B04-8BA6-F1BACF6FD834}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83EEBBE4-0C48-4B04-8BA6-F1BACF6FD834}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83EEBBE4-0C48-4B04-8BA6-F1BACF6FD834}.Release|Any CPU.Build.0 = Release|Any CPU
 		{813B6C12-E2E8-46B4-8FC1-B082C9F9C05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{813B6C12-E2E8-46B4-8FC1-B082C9F9C05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{813B6C12-E2E8-46B4-8FC1-B082C9F9C05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
